@@ -1,7 +1,7 @@
-WebInsight Bot
+DeepWebLens Bot
 =================
 
-Welcome to the **WebInsight Bot** project! This repository contains the code and documentation for a dynamic chatbot that learns and responds to user queries based on the provided URLs. The chatbot is designed to fetch information from the specified websites and use that data to answer questions.
+Welcome to the **DeepWebLens Bot** project! This repository contains the code and documentation for a dynamic chatbot that learns and responds to user queries based on the provided URLs. The chatbot is designed to fetch information from the specified websites and use that data to answer questions.
 
 Features
 --------
